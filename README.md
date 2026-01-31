@@ -12,6 +12,7 @@ A cloud native conversational chatbot built using Dialogflow CX on Google Cloud 
 
 ## Tech Stack
 - Google Cloud Platform (GCP)
+- Python
 - Dialogflow CX
 - BigQuery
 - Vertex AI
