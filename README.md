@@ -2,7 +2,9 @@
 A cloud native conversational chatbot built using Dialogflow CX on Google Cloud Platform that enables real time flight search and booking through API integrations, enhanced with data driven intent optimization.
 
 ## Demo Video
-[![Watch the demo]](https://youtu.be/hCbhScFCdYU)
+<a href="https://youtu.be/hCbhScFCdYU" target="_blank">
+  <img src="https://img.youtube.com/vi/hCbhScFCdYU/0.jpg" alt="Watch the video">
+</a>
 
 ## Features
 - Real time flight search via APIs
